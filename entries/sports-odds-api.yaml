@@ -1,0 +1,18 @@
+name: sports-odds-api
+slug: sports-odds-api
+url: https://apify.com/publicrecords/sports-odds-api
+category: specialised-vertical
+category_label: Specialised / Vertical
+tagline: 'Live odds from 24 Kambi-powered sportsbooks in one call — BetRivers (12 US
+  states + Ontario), Unibet, Paf, Svenska Spel, ATG. One row per game with every book''s
+  price and the best price per outcome. Hosted Streamable HTTP at `https://mcp.apify.com?tools=publicrecords/sports-odds-api`
+  with Apify OAuth (or Bearer APIFY_TOKEN). Docs stub: https://github.com/GeminiGeorge22/sports-odds-mcp.
+  Disclosure: I maintain this Actor.'
+tags:
+- official
+- read-only
+- hosted
+list: mcp-servers
+added: '2026-10-27'
+category_order: 15
+verified: '2026-10-27'
